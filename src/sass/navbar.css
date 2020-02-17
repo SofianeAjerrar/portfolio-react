@@ -1,0 +1,12 @@
+.greenColor {
+  color: #49a871;
+}
+
+.hoverNav:hover {
+  color: #191a1b;
+}
+
+.hoverIcon:hover {
+  font-size: 45px;
+}
+/*# sourceMappingURL=navbar.css.map */
